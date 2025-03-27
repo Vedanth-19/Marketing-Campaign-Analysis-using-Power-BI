@@ -1,4 +1,4 @@
-**COVID-19 ANALYSIS USING POWER BI DESKTOP**
+**MARKETING CAMPAIGN ANALYSIS USING POWER BI DESKTOP**
 
 This project uses Microsoft Power BI Desktop to Transform, load and visualize the data.<br/>
 <br/>
